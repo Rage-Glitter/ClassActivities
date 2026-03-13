@@ -17,5 +17,3 @@ console.log(person.age);
 console.log(person.address.city);
 console.log(person.favoriteFoods[1]);
 console.log(`My name is ${person.name} and I live in ${person.address.city}.`);
-
-
